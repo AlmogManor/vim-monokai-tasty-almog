@@ -156,7 +156,7 @@ call Highlight('Conditional', { 'fg': s:magenta, 'bg': s:none, 'style': s:none }
 call Highlight('Define', { 'fg': s:magenta, 'bg': s:none, 'style': s:none })
 call Highlight('Debug', { 'fg': s:magenta, 'bg': s:none, 'style': s:none })
 call Highlight('Delimiter', { 'fg': s:magenta, 'bg': s:none, 'style': s:none })
-call Highlight('Keyword', { 'fg': s:magenta, 'bg': s:none, 'style': s:none })
+call Highlight('Keyword', { 'fg': s:magenta, 'bg': s:none, 'style': s:bold })
 call Highlight('Macro', { 'fg': s:magenta, 'bg': s:none, 'style': s:none })
 call Highlight('Operator', { 'fg': s:magenta, 'bg': s:none, 'style': s:none })
 call Highlight('PreProc', { 'fg': s:magenta, 'bg': s:none, 'style': s:none })
