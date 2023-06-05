@@ -152,7 +152,7 @@ call Highlight('StatusLineNC', { 'fg': s:grey, 'bg': s:darker_grey, 'style': s:n
 call Highlight('Exception', { 'fg': s:magenta, 'bg': s:none, 'style': s:bold })
 call Highlight('MatchParen', { 'fg': s:magenta, 'bg': s:none, 'style': s:bold_underline })
 call Highlight('Include', { 'fg': s:magenta, 'bg': s:none, 'style': s:none })
-call Highlight('Conditional', { 'fg': s:magenta, 'bg': s:none, 'style': s:none })
+call Highlight('Conditional', { 'fg': s:magenta, 'bg': s:none, 'style': s:bold })
 call Highlight('Define', { 'fg': s:magenta, 'bg': s:none, 'style': s:none })
 call Highlight('Debug', { 'fg': s:magenta, 'bg': s:none, 'style': s:none })
 call Highlight('Delimiter', { 'fg': s:magenta, 'bg': s:none, 'style': s:none })
